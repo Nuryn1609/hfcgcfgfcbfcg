@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="uH6W403,a?nQr]dNGb0r" x="-32" y="-200"></block><block type="device_show_leds" id="Ezw1JpS~^.|V%tc*A[8V" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="-365" y="-14"><field name="LEDS">`
+        # # . # # 
+        # # . . # 
+        # # # . . 
+        # # # # . 
+        . . # . .
+        `</field><next><block type="device_clear_display" id="z=V*CJY}.yKRYFgXp6VX" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><next><block type="device_clear_display" id="@Tu6?6oq+_/F.!yUxu7s" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><next><block type="device_clear_display" id="a(g52-W@z;Pp7osl@YMB" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><next><block type="device_clear_display" id="wvjV`kuJ5mCQ-o4,=8O2" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><next><block type="device_clear_display" id="M1Qx+kMgh@?g%5N_(|J7" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><next><block type="device_show_leds" id="L,](B~[?NvqRK4FU;n8k" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><field name="LEDS">`
+        . # # . . 
+        . . # . . 
+        # # # . . 
+        # . # . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="mWz#LuiT`,]!KGiGkWEa" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . . . 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block><block type="device_button_event" id="LnuY4EM#zfIgdJ0rq*E*" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="`|9ATt`/G8+f%9i4z,x#"><value name="text"><shadow type="text" id="uoR-xOf7Ss1^W3P{r}.}"><field name="TEXT">Hello</field></shadow></value></block></statement></block><block type="pxt-on-start" id="Kc1M{BCt8imKPGWCdg.{" x="93" y="300"></block></xml>
